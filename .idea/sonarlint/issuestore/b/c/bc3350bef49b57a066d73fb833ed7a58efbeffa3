@@ -1,4 +1,0 @@
-
-Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(™¦èûÿÿÿÿ8»ÓšÕÂ.
-~squid:UselessImportCheck"NRemove this unused import 'com.sun.org.apache.xpath.internal.operations.Bool'.(™¦èûÿÿÿÿ8»ÓšÕÂ.
-nsquid:S12062"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8•®³ĞÂ.
